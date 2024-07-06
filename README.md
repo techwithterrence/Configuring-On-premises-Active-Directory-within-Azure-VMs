@@ -19,8 +19,8 @@ Microsoft Azure cloud enviornment.<br />
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022 </b> (21H2)
-- Windows 10 
+- Domain Controller - Windows Server 2022  </b> (21H2)
+- Client-1 - Windows 10 
 
 <h2>Lets Begin </h2>
 
