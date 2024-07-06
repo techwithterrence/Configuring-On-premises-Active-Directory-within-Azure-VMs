@@ -2,7 +2,7 @@
 
 ![ws-2016-ad-ds-console-active-directory-users-and-computers](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/24855568-ee52-49fc-a82b-569f5f93d26e)
 
-<h1>osTicket - Using Active Directory w/Azure</h1>
+<h1>Project Scope - Using Active Directory w/Azure</h1>
 This tutorial outlines the way a computer user can utilize Active Directory inside of the 
 Microsoft Azure cloud enviornment.<br />
 
