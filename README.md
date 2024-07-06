@@ -13,13 +13,14 @@ Microsoft Azure cloud enviornment.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Active Directory Users and Computers
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022 </b> (21H2)
+- Windows 10 
 
 <h2>Ticket Lifecycle Stages</h2>
 
