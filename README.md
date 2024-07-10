@@ -61,62 +61,75 @@ Microsoft Azure cloud enviornment.<br />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+     Next Install and configure Active Directory.  To Install Active Directory, you must use the server workstation's Server Manager, Add Roles And Features option.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/f51ec641-d362-4e39-92c6-a1db70790e25)
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/67536173-9bdd-494f-ab44-88e6d8ed381c)
+
+                                 BE SURE TO CLICK THE YELLOW EXCLAMATION POINT!!!!  Then Promote the server to the controller.
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/31b2f812-b5a6-4f04-9712-ad13f5abe574)
+
+                                Now CONFIGURE THE DOMAIN CONTROLLER HERE!!!!
+
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/add61772-90c5-4e37-b3c4-febbef1c60ad)
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/7f595948-ca3e-4dea-95a2-7dbff84c6f30)
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Now, Next log back into the DC-1 workstation with the newly created Domain controller information you just created before the system restarted.
+    Also look and find Active Directory Users And Computers is now in the tools menu of the Server Manager's Menu.  
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/51e04238-14e4-4de4-a65b-b09680795858)
+
+                                                        READY TO BE USED NOW!!!
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/151f95af-7b72-4e84-91fd-08de256d2924)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+    Now, Lets create our first group of folders in Active Directory.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/92a616d1-8227-4b12-9663-2e905e602871)
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/4c6051b1-441d-43ae-b201-b77111e3fed5)
+
+
+                                                            NOW LETS ADD A NEW USER TO THE GROUP
+
+                                                            
+
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/e79db857-5c6d-465b-abcc-d5e54752effa)
+
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/0411b6ea-ede8-4def-9d7e-e5da8dfc1fac)
+
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/086b8560-f4ef-4b73-a193-9fd86a8a4c44)
+
+
+
+                                                 ALL DONE, HERE IS THE NEW USER NOW!!!!!!
+
+
+![image](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/354add33-ad04-4d39-863f-fa8701165c01)
+
+
+
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        All FINISHED I HOPE YOU ENJOYED THE LAB.  
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![360_F_267282687_zFyIxL9ZUGrOss3OOgFzFIXWdHUeEsG3](https://github.com/techwithterrence/Configuring-On-premises-Active-Directory-within-Azure-VMs/assets/174138674/556faa08-ff85-4d2c-b328-a2c04dcbb3a0)
